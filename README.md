@@ -1,5 +1,5 @@
 <h2> Hi there 👋, I'm JuOogle! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"> Data Analyst <em>in the making</em></p>
+<p><img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="50"> Data Scientist <em>in the making</em></p>
 
 <p>Hi!, I am Ju, a Senior Customer service specialists with 15 years of experience focused in Tourism and Hospitality activities and a Junior Data Analyst Developer focused on People Analytics on it's way to become a Data Scientist.</p>
 I entered 'this world' during the pandemic with one purpose: <em>  Be part of those who make a difference.</em>
